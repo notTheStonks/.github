@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Not The Stonks ($STONKS) is a community-driven Solana token that defies traditional market logic. While the charts may go up, down, or sideways, one thing remains certain—this ain't your typical stonks. Whether you're in it for the memes, the vibes, or the unpredictable ride, $STONKS is here to embrace the chaos of the crypto world with a lighthearted touch.
